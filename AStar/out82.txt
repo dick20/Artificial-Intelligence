@@ -1,0 +1,46 @@
+AStar Algorithm
+
+OpenTable Size: 1
+OpenTable Size: 3
+OpenTable Size: 6
+OpenTable Size: 8
+OpenTable Size: 9
+OpenTable Size: 11
+
+Total Run Time: 0 ms.
+Step: 0
+2 8 3 
+1 6 4 
+7 0 5 
+h: 4	g: 0	f: 4
+
+Step: 1
+2 8 3 
+1 0 4 
+7 6 5 
+h: 3	g: 1	f: 4
+
+Step: 2
+2 0 3 
+1 8 4 
+7 6 5 
+h: 3	g: 2	f: 5
+
+Step: 3
+0 2 3 
+1 8 4 
+7 6 5 
+h: 2	g: 3	f: 5
+
+Step: 4
+1 2 3 
+0 8 4 
+7 6 5 
+h: 1	g: 4	f: 5
+
+Step: 5
+1 2 3 
+8 0 4 
+7 6 5 
+h: 0	g: 5	f: 5
+

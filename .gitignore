@@ -1,0 +1,5 @@
+# Ignore all md files
+*.md
+
+# Ignore all exe
+*.exe
