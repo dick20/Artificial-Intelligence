@@ -67,7 +67,7 @@ int computeH(state &p) {
   return h;
 }
 
-// H2: Euclidean Distance
+// H1: Euclidean Distance
 int computeH1(state &p) {
   int h = 0;
   for (int i = 0; i < GRID; i++) {
@@ -129,6 +129,25 @@ vector<state*>::iterator findDuplicate(vector<state*> &vec, state *p) {
     }
   }
   return iter;
+}
+
+bool isCanSolve(state &start) {
+  int temp[9]= {0};
+  int k = 0;
+  for (int i = 0; i < GRID; i++) {
+    for (int j = 0; j < GRID; j++) {
+      temp[k++] = start.panel[i][j];
+    }
+  }
+  int inverseNum = 0;
+  for (int i = 0; i < 9; i++) {
+    for (int j = i + 1; j < 9; j++) {
+      if (temp[i] != 0 && temp[j] != 0 && temp[i] > temp[j]) {
+        inverseNum++;
+      }
+    }
+  }
+  return (inverseNum % 2 != 0);
 }
 
 // apply AStar Algorithm
@@ -194,7 +213,9 @@ state* AStar(state &start) {
       // move zero to the new position
       q->panel[zeroX][zeroY] = q->panel[zeroX + x_offset][zeroY + y_offset];
       q->panel[zeroX + x_offset][zeroY + y_offset] = 0;
-      
+      if (!isCanSolve(*q)) {
+        continue;
+      }
       bool isSkip = false;
       vector<state*>::iterator duplicate = findDuplicate(openTable, q);
       // If q is in OpenTable, update it
@@ -205,7 +226,7 @@ state* AStar(state &start) {
         }
         isSkip = true;
       }
-
+      // If q is in CloseTable, update it
       duplicate = findDuplicate(closeTable, q);
       if (duplicate != closeTable.end()) {
         if (computeF(q) < computeF(*duplicate)) {
@@ -244,30 +265,10 @@ void printSolution(state *q) {
   }
 }
 
-bool isCanSolve(state &start) {
-  int temp[9]= {0};
-  int k = 0;
-  for (int i = 0; i < GRID; i++) {
-    for (int j = 0; j < GRID; j++) {
-      temp[k++] = start.panel[i][j];
-    }
-  }
 
-  int inverseNum = 0;
-  for (int i = 0; i < 9; i++) {
-    for (int j = i + 1; j < 9; j++) {
-      if (temp[i] !=0 && temp[j] != 0 && temp[i] > temp[j]) {
-        inverseNum++;
-      }
-    }
-  }
-
-  return (inverseNum % 2 != 0);
-
-}
 
 int main() {
-  cout << "AStar Algorithm" << endl << endl;
+  cout << "AStar Algorithm: Eight Puzzle!" << endl << endl;
   state start(0);
   state *target;
 

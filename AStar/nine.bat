@@ -1,0 +1,1 @@
+for /l %%i in (1, 1, 5) do nine.exe < ./test/in%%i.txt > ./result_h2/out%%i%%i.txt

@@ -1,0 +1,488 @@
+Nine Puzzle!
+
+OpenTable Size: 1
+OpenTable Size: 4
+OpenTable Size: 6
+OpenTable Size: 7
+OpenTable Size: 9
+OpenTable Size: 12
+OpenTable Size: 12
+OpenTable Size: 12
+OpenTable Size: 11
+OpenTable Size: 13
+OpenTable Size: 13
+OpenTable Size: 13
+OpenTable Size: 15
+OpenTable Size: 15
+OpenTable Size: 15
+OpenTable Size: 17
+OpenTable Size: 19
+OpenTable Size: 19
+OpenTable Size: 20
+OpenTable Size: 22
+OpenTable Size: 22
+OpenTable Size: 22
+OpenTable Size: 24
+OpenTable Size: 24
+OpenTable Size: 24
+OpenTable Size: 24
+OpenTable Size: 24
+OpenTable Size: 26
+OpenTable Size: 26
+OpenTable Size: 28
+OpenTable Size: 28
+OpenTable Size: 29
+OpenTable Size: 31
+OpenTable Size: 34
+OpenTable Size: 36
+OpenTable Size: 37
+OpenTable Size: 39
+OpenTable Size: 42
+OpenTable Size: 42
+OpenTable Size: 42
+OpenTable Size: 44
+OpenTable Size: 47
+OpenTable Size: 46
+OpenTable Size: 48
+OpenTable Size: 48
+OpenTable Size: 47
+OpenTable Size: 49
+OpenTable Size: 51
+OpenTable Size: 51
+OpenTable Size: 51
+OpenTable Size: 53
+OpenTable Size: 53
+OpenTable Size: 54
+OpenTable Size: 53
+OpenTable Size: 52
+OpenTable Size: 52
+OpenTable Size: 54
+OpenTable Size: 54
+OpenTable Size: 55
+OpenTable Size: 57
+OpenTable Size: 58
+OpenTable Size: 58
+OpenTable Size: 58
+OpenTable Size: 58
+OpenTable Size: 59
+OpenTable Size: 59
+OpenTable Size: 61
+OpenTable Size: 64
+OpenTable Size: 66
+OpenTable Size: 67
+OpenTable Size: 69
+OpenTable Size: 69
+OpenTable Size: 70
+OpenTable Size: 71
+OpenTable Size: 72
+OpenTable Size: 73
+OpenTable Size: 76
+OpenTable Size: 77
+OpenTable Size: 78
+OpenTable Size: 80
+OpenTable Size: 79
+OpenTable Size: 81
+OpenTable Size: 84
+OpenTable Size: 85
+OpenTable Size: 87
+OpenTable Size: 90
+OpenTable Size: 90
+OpenTable Size: 91
+OpenTable Size: 93
+OpenTable Size: 96
+OpenTable Size: 96
+OpenTable Size: 97
+OpenTable Size: 97
+OpenTable Size: 96
+OpenTable Size: 96
+OpenTable Size: 98
+OpenTable Size: 98
+OpenTable Size: 100
+OpenTable Size: 103
+OpenTable Size: 103
+OpenTable Size: 102
+OpenTable Size: 104
+OpenTable Size: 107
+OpenTable Size: 107
+OpenTable Size: 109
+OpenTable Size: 109
+OpenTable Size: 109
+OpenTable Size: 110
+OpenTable Size: 111
+OpenTable Size: 111
+OpenTable Size: 111
+OpenTable Size: 112
+OpenTable Size: 112
+OpenTable Size: 113
+OpenTable Size: 115
+OpenTable Size: 118
+OpenTable Size: 118
+OpenTable Size: 120
+OpenTable Size: 120
+OpenTable Size: 121
+OpenTable Size: 121
+OpenTable Size: 120
+OpenTable Size: 121
+OpenTable Size: 120
+OpenTable Size: 120
+OpenTable Size: 120
+OpenTable Size: 120
+OpenTable Size: 120
+OpenTable Size: 121
+OpenTable Size: 121
+OpenTable Size: 122
+OpenTable Size: 122
+OpenTable Size: 123
+OpenTable Size: 124
+OpenTable Size: 123
+OpenTable Size: 123
+OpenTable Size: 125
+OpenTable Size: 128
+OpenTable Size: 130
+OpenTable Size: 131
+OpenTable Size: 130
+OpenTable Size: 132
+OpenTable Size: 134
+OpenTable Size: 133
+OpenTable Size: 135
+OpenTable Size: 137
+OpenTable Size: 139
+OpenTable Size: 139
+OpenTable Size: 139
+OpenTable Size: 140
+OpenTable Size: 141
+OpenTable Size: 143
+OpenTable Size: 143
+OpenTable Size: 142
+OpenTable Size: 142
+OpenTable Size: 142
+OpenTable Size: 144
+OpenTable Size: 144
+OpenTable Size: 144
+OpenTable Size: 145
+OpenTable Size: 146
+OpenTable Size: 146
+OpenTable Size: 147
+OpenTable Size: 146
+OpenTable Size: 147
+OpenTable Size: 148
+OpenTable Size: 148
+OpenTable Size: 149
+OpenTable Size: 149
+OpenTable Size: 151
+OpenTable Size: 151
+OpenTable Size: 153
+OpenTable Size: 155
+OpenTable Size: 156
+OpenTable Size: 157
+OpenTable Size: 158
+OpenTable Size: 160
+OpenTable Size: 163
+OpenTable Size: 163
+OpenTable Size: 163
+OpenTable Size: 163
+OpenTable Size: 163
+OpenTable Size: 165
+OpenTable Size: 167
+OpenTable Size: 168
+OpenTable Size: 168
+OpenTable Size: 169
+OpenTable Size: 169
+OpenTable Size: 169
+OpenTable Size: 171
+OpenTable Size: 174
+OpenTable Size: 174
+OpenTable Size: 176
+OpenTable Size: 176
+OpenTable Size: 179
+OpenTable Size: 179
+OpenTable Size: 179
+OpenTable Size: 180
+OpenTable Size: 182
+OpenTable Size: 182
+OpenTable Size: 183
+OpenTable Size: 182
+OpenTable Size: 182
+OpenTable Size: 181
+OpenTable Size: 180
+OpenTable Size: 182
+OpenTable Size: 182
+OpenTable Size: 182
+OpenTable Size: 184
+OpenTable Size: 184
+OpenTable Size: 183
+OpenTable Size: 184
+OpenTable Size: 185
+OpenTable Size: 186
+OpenTable Size: 187
+OpenTable Size: 187
+OpenTable Size: 187
+OpenTable Size: 189
+OpenTable Size: 190
+OpenTable Size: 192
+OpenTable Size: 192
+OpenTable Size: 191
+OpenTable Size: 193
+OpenTable Size: 193
+OpenTable Size: 194
+OpenTable Size: 194
+OpenTable Size: 194
+OpenTable Size: 195
+OpenTable Size: 195
+OpenTable Size: 197
+OpenTable Size: 199
+OpenTable Size: 200
+OpenTable Size: 202
+OpenTable Size: 202
+OpenTable Size: 202
+OpenTable Size: 203
+OpenTable Size: 204
+OpenTable Size: 204
+OpenTable Size: 204
+OpenTable Size: 205
+OpenTable Size: 206
+OpenTable Size: 207
+OpenTable Size: 209
+OpenTable Size: 209
+OpenTable Size: 210
+OpenTable Size: 210
+OpenTable Size: 210
+OpenTable Size: 212
+OpenTable Size: 214
+OpenTable Size: 214
+OpenTable Size: 213
+OpenTable Size: 213
+OpenTable Size: 213
+OpenTable Size: 213
+OpenTable Size: 213
+OpenTable Size: 214
+OpenTable Size: 217
+OpenTable Size: 219
+OpenTable Size: 221
+OpenTable Size: 221
+OpenTable Size: 223
+OpenTable Size: 223
+OpenTable Size: 224
+OpenTable Size: 223
+OpenTable Size: 224
+OpenTable Size: 224
+OpenTable Size: 223
+OpenTable Size: 222
+OpenTable Size: 221
+OpenTable Size: 223
+OpenTable Size: 225
+OpenTable Size: 226
+OpenTable Size: 226
+OpenTable Size: 226
+OpenTable Size: 228
+OpenTable Size: 227
+OpenTable Size: 227
+OpenTable Size: 227
+OpenTable Size: 227
+OpenTable Size: 227
+OpenTable Size: 229
+OpenTable Size: 230
+OpenTable Size: 232
+OpenTable Size: 234
+OpenTable Size: 234
+OpenTable Size: 235
+OpenTable Size: 236
+OpenTable Size: 236
+OpenTable Size: 238
+OpenTable Size: 237
+OpenTable Size: 237
+OpenTable Size: 240
+OpenTable Size: 240
+OpenTable Size: 241
+OpenTable Size: 241
+OpenTable Size: 242
+OpenTable Size: 242
+OpenTable Size: 245
+OpenTable Size: 247
+OpenTable Size: 247
+OpenTable Size: 249
+OpenTable Size: 249
+OpenTable Size: 251
+OpenTable Size: 251
+OpenTable Size: 251
+OpenTable Size: 251
+OpenTable Size: 253
+OpenTable Size: 254
+OpenTable Size: 254
+OpenTable Size: 254
+OpenTable Size: 254
+OpenTable Size: 256
+OpenTable Size: 258
+OpenTable Size: 261
+OpenTable Size: 260
+OpenTable Size: 261
+OpenTable Size: 261
+OpenTable Size: 261
+OpenTable Size: 260
+OpenTable Size: 259
+OpenTable Size: 258
+OpenTable Size: 257
+OpenTable Size: 260
+OpenTable Size: 260
+OpenTable Size: 261
+OpenTable Size: 261
+OpenTable Size: 261
+OpenTable Size: 261
+OpenTable Size: 262
+OpenTable Size: 263
+OpenTable Size: 265
+OpenTable Size: 265
+OpenTable Size: 267
+OpenTable Size: 267
+OpenTable Size: 267
+OpenTable Size: 266
+OpenTable Size: 266
+OpenTable Size: 266
+OpenTable Size: 268
+OpenTable Size: 268
+OpenTable Size: 268
+OpenTable Size: 268
+OpenTable Size: 267
+OpenTable Size: 269
+OpenTable Size: 270
+OpenTable Size: 269
+OpenTable Size: 270
+OpenTable Size: 270
+OpenTable Size: 271
+OpenTable Size: 270
+OpenTable Size: 271
+OpenTable Size: 271
+OpenTable Size: 272
+OpenTable Size: 273
+OpenTable Size: 272
+OpenTable Size: 272
+OpenTable Size: 272
+OpenTable Size: 271
+OpenTable Size: 270
+OpenTable Size: 271
+OpenTable Size: 271
+OpenTable Size: 273
+OpenTable Size: 273
+OpenTable Size: 273
+OpenTable Size: 274
+OpenTable Size: 274
+OpenTable Size: 275
+OpenTable Size: 275
+OpenTable Size: 275
+OpenTable Size: 276
+OpenTable Size: 277
+OpenTable Size: 277
+OpenTable Size: 277
+OpenTable Size: 276
+OpenTable Size: 278
+OpenTable Size: 280
+OpenTable Size: 282
+OpenTable Size: 282
+OpenTable Size: 282
+OpenTable Size: 283
+OpenTable Size: 283
+OpenTable Size: 285
+
+Total Run Time: 648 ms.
+Step: 0
+7 1 2 
+4 0 5 
+3 8 6 
+h: 11	g: 0	f: 11
+
+Step: 1
+7 1 2 
+0 4 5 
+3 8 6 
+h: 11	g: 1	f: 12
+
+Step: 2
+0 1 2 
+7 4 5 
+3 8 6 
+h: 10	g: 2	f: 12
+
+Step: 3
+1 0 2 
+7 4 5 
+3 8 6 
+h: 9	g: 3	f: 12
+
+Step: 4
+1 4 2 
+7 0 5 
+3 8 6 
+h: 8	g: 4	f: 12
+
+Step: 5
+1 4 2 
+7 8 5 
+3 0 6 
+h: 9	g: 5	f: 14
+
+Step: 6
+1 4 2 
+7 8 5 
+0 3 6 
+h: 9	g: 6	f: 15
+
+Step: 7
+1 4 2 
+0 8 5 
+7 3 6 
+h: 8	g: 7	f: 15
+
+Step: 8
+1 4 2 
+8 0 5 
+7 3 6 
+h: 6	g: 8	f: 14
+
+Step: 9
+1 4 2 
+8 3 5 
+7 0 6 
+h: 6	g: 9	f: 15
+
+Step: 10
+1 4 2 
+8 3 5 
+7 6 0 
+h: 5	g: 10	f: 15
+
+Step: 11
+1 4 2 
+8 3 0 
+7 6 5 
+h: 4	g: 11	f: 15
+
+Step: 12
+1 4 2 
+8 0 3 
+7 6 5 
+h: 3	g: 12	f: 15
+
+Step: 13
+1 0 2 
+8 4 3 
+7 6 5 
+h: 4	g: 13	f: 17
+
+Step: 14
+1 2 0 
+8 4 3 
+7 6 5 
+h: 3	g: 14	f: 17
+
+Step: 15
+1 2 3 
+8 4 0 
+7 6 5 
+h: 2	g: 15	f: 17
+
+Step: 16
+1 2 3 
+8 0 4 
+7 6 5 
+h: 0	g: 16	f: 16
+
